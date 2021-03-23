@@ -1,0 +1,22 @@
+{
+  "name": "esizlid",
+  "version": "1.0.0",
+  "homepage": "https://github.com/esizl/esizlid",
+  "author": {
+    "name": "Esizl",
+    "url": "https://railwayco.xyz/"
+  },
+  "repository": "esizl/esizlid",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
+  "keywords": [
+    "id",
+    "esizl",
+    "esizlid",
+    "random",
+    "url"
+  ]
+}
