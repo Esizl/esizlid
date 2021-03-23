@@ -1,6 +1,6 @@
 ## Quickstart
 
-To create a random UUID...
+To create a random Esizlid...
 
 **1. Install**
 
