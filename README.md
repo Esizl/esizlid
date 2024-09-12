@@ -1,6 +1,6 @@
 ## Quickstart
 
-To create a random Esizlid...
+To create a random uuid using esizlid...
 
 **1. Install**
 
@@ -19,4 +19,9 @@ id(9); // Outputs: 'MwBxEFLg'
 ```javascript
 const id = require('esizlid');
 id(9, 'abc'); // Outputs: 'ccbbbcca'
+```
+
+```javascript
+const id = require('esizlid');
+id(9, 'abc123'); // Outputs: '12cc2a13'
 ```
